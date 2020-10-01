@@ -133,7 +133,7 @@ It is possible for a custom integration and a core integration to collide on
 a `domain` name level. In these cases, the core integration domain get
 preference.
 
-## Tips, Tools & Resources
+## Tips, Tools , Resources & Handhold Support 
 
 When adding a new set of icons and logos, the following resources can help you
 finding the needed images and getting them to match our specifications:
@@ -149,7 +149,7 @@ finding the needed images and getting them to match our specifications:
 A lot of brands (especially the larger ones) often offer a press kit on
 their (cooperate) website, that contains high quality images.
 
-## Trademark Legal Notices
+## Trademark Legal Notices & License 
 
 All product names, trademarks and registered trademarks in the images in this
 repository, are property of their respective owners. All images in this
